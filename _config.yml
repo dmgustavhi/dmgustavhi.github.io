@@ -1,0 +1,3 @@
+name: Github-hosted website
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
