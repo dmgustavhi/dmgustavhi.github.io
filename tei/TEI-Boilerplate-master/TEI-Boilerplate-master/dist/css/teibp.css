@@ -1945,7 +1945,10 @@ div.facsImage img:first-child {
 [style~=underline] {
 text-decoration: underline;
 }
-
+[style~=centered] {
+text-align: center; 
+color: blue;
+}
 [style~=center] {
 text-align: center;
 }
