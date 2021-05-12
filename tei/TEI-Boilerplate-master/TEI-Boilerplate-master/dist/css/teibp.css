@@ -1941,3 +1941,17 @@ div.facsImage img:first-child {
   font-family: Arvo, sans-serif;
   font-weight: normal;
 }
+hi[rend~="underline"] {
+text-decoration: underline;
+}
+hi[rendition~="underline"] {
+text-decoration: underline;
+}
+
+
+hi[rend~="centered"] {
+text-align: center;
+}
+hi[rendition~="centered"] {
+text-align: center;
+}
