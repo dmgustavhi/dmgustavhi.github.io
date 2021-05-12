@@ -1941,18 +1941,18 @@ div.facsImage img:first-child {
   font-family: Arvo, sans-serif;
   font-weight: normal;
 }
-hi[rend~="underline"] {
+hi[rend~=underline] {
 text-decoration: underline;
 }
-hi[rendition~="underline"] {
+hi[rendition~=underline] {
 text-decoration: underline;
 }
 
 
-hi[rend~="centered"] {
+hi[rend~=center] {
 text-align: center;
 }
-hi[rendition~="centered"] {
+hi[rendition~=center] {
 text-align: center;
 }
 .undrline   {
