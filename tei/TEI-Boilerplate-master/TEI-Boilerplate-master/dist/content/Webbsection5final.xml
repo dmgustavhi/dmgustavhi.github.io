@@ -1,0 +1,1033 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>U.S.A and Others v. Araki and Others</title>
+                <author>Webb</author>
+            </titleStmt>
+            <publicationStmt>
+                <!-- to be filled in with detail -->
+                <p/>
+            </publicationStmt>
+            <notesStmt>
+                <note type="ns">http://www.example.org/ns/nonTEI</note>
+            </notesStmt>
+            <sourceDesc>
+                <!-- original holder be filled in with detail from Yuma -->
+                <p>Transcribed from microfilm copy held by</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <schemaSpec ident="WebbDraft" docLang="en" prefix="tei_" xml:lang="en">
+                <moduleRef key="core" except=""/>
+                <moduleRef key="tei" except=""/>
+                <moduleRef key="header" except=""/>
+                <moduleRef key="textstructure" except=""/>
+                <moduleRef key="msdescription" except=""/>
+                <moduleRef key="namesdates" except=""/>
+            </schemaSpec>
+        </encodingDesc>
+        <revisionDesc>
+            <change><date>3/4/21</date><name>David Gustavsen</name>Created TEI Header and
+                notes</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+
+        <front>
+            <divGen type="toc"/>
+        </front>
+        <body>
+            <div type="part" n="5">
+                <pb n="238"/>
+                <head><hi rend="underline" rendition="allcaps">Part V - Conventional War Crimes and
+                        Crimes Against Humanity Non-Ratification of Geneva Prisoners of War (POW)
+                        Convention of 1929</hi></head>
+                <p>Japan signed the Geneva POW Convention of 1929 but did not ratify it because the
+                    Army and Navy opposed ratification on the grounds that the obligations would be
+                    unilateral, since no Japanese would be taken prisoner; the article permitting
+                    interviews with prisoners without observers would endanger military security;
+                    the treaty would double the range of enemy aircraft if pilots knew they could
+                    land in Japan with impunity; and discipline would suffer as Prisoners of War
+                    (hereafter called POW) could not be punished as severely as Japanese
+                    soldiers.</p>
+                <p>The Geneva Convention of 1929 merely confirmed and amplified the Hague Convention
+                    of 1899.</p>
+                <p rend="centered"><hi rend="underline">Assurances by Japan</hi></p>
+                <p>Both Britain and the USA notified Japan that they would observe the Geneva POW
+                    Convention of 1929 and the racial customs of POW with regard to food and
+                    clothing. After consulting the War Minister, <persName>Foreign Minister
+                        TOGO</persName> notified the Protecting Powers that although not bound by
+                    the Geneva POW Convention of 1929 Japan “would apply <hi rend="underline"
+                        >mutatis mutandis</hi> the provisions of the said Convention”. </p>
+                <p>Japan also notified that she would consider on condition of reciprocity the
+                    national and racial customs of the prisoners as to food and clothing, and on
+                        <date when-iso="1942-02-13"> 13th February 1942</date> advised that the
+                    Geneva POW Convention of 1929 would be applied to civilian internees so far as
+                    it was applicable.</p>
+                <p>
+                    <persName>TOGO</persName> testified that he took the phrase “<hi
+                        rend="underline">mutatis mutandis</hi>” to mean “as far as circumstances
+                    permitted, and that where the Convention conflicted with domestic law the former
+                    would prevail.” However, replies to <pb n="239"/> Allied protests showed that
+                    this was altered to mean that the convention would be applied only where it did
+                    not conflict with Japanese domestic law, and according to a reply of the
+                    Japanese Foreign Ministry dated <date when-iso="1944-04-28">28th April
+                        1944</date> it was to be applied “with the modifications necessary in order
+                    to conform with the provisions of existing laws and regulations of the country
+                    and with the requirements of the actual situation as it develops.” </p>
+                <p rend="centered"><hi rend="underline">The Japanese Government's Knowledge of War
+                        Crimes The Rape of Nanking</hi></p>
+                <p>When Nanking fell on <date when-iso="1937-12-13">13th December 1937</date> all
+                    Chinese resistance ceased. During the first few days over 30,000 Chinese were
+                    executed. Estimates of the number killed in the first 6 weeks vary from 260,000
+                    to 300,000. There were 20,000 cases of rape.</p>
+                <p> Records show that over 155,000 bodies were buried. Protests sent to the Foreign
+                    Ministry were discussed with War Ministry officials at Liaison Conferences.
+                    Reports of more than 70 cases of rape were sent to <persName>Foreign Minister
+                        HIROTA</persName>. Newspaper reports of the atrocities were referred to in
+                    the Budget Committee of the House of Peers on <date when-iso="1938-02-16">16th
+                        February 1938</date>.</p>
+                <p rend="centered"><hi rend="underline">Knowledge After Nanking and Before Pacific
+                        War</hi></p>
+                <p> Following the Japanese entry into <location>
+                        <placeName>Hankow</placeName>
+                    </location> in <date when-iso="1938-10">October 1938</date> captured Chinese
+                    were kicked into the Yangtze and shot and some Chinese were left in the streets
+                    with their hands wired behind them. All had been killed by shooting. </p>
+                <p> On <date when-iso="1939-02-15">15th February 1939</date> the Vice-War Minister
+                    issued an order that men returning from the Chinese Incident Army be properly
+                    controlled so that they should not talk about atrocities. </p>
+                <pb n="240"/>
+                <p rend="centered"><hi rend="underline">Knowledge During the Pacific War</hi></p>
+                <p> Most protests concerned POW held by the Army. Copies were sent to all Sections
+                    of the War Ministry and to other departments, e.g., Navy, Home Affairs, and
+                    Justice, depending on the nature of the protest. These were discussed at the
+                    bi-weekly conference between the Minister, Vice Minister, and Bureau Chiefs.
+                    Afterwards they were forwarded through the POW Information Bureau to the Army
+                    Commander and Chief of POW camps. When information was received from them a
+                    reply was prepared in the Military Affairs Section of the Military Affairs
+                    Bureau and forwarded to the Foreign Office. This system ensured that information
+                    of atrocities should be well circulated through the Government offices. </p>
+                <p rend="centered"><hi rend="underline">Rangoon</hi></p>
+                <p> On <date when-iso="1942-07-08">8th July 1942</date> the Swiss Minister forwarded
+                    to <persName>TOGO</persName>, the Foreign Minister, a proteset accompanied by a
+                    photograph from a Japanese newspaper of British POW cleaning the streets of
+                    Rangoon before amused Burmese onlookers. No reply was received although a
+                    reminder was sent. </p>
+                <p> A complaint made on <date when-iso="1942-09-15">15th September 1942</date> as to
+                    ill treatment and starvation of POW at <location>
+                        <placeName>Rangoon Gaol Camp</placeName>
+                    </location> met with denial and further protests on <date when-iso="1943-02-12"
+                        >12th February 1943</date> and <date when-iso="1944-11-18">18th November
+                        1944</date> elicited no response.</p>
+                <p rend="centered"><hi rend="underline">Burma Thailand Railway</hi></p>
+                <p> From <date when-iso="1942-08">August 1942</date> onwards POW were employed on
+                    building a line from <location>
+                        <placeName>Kanchananburi in Thailand</placeName>
+                    </location> to <location>
+                        <placeName>Thanbyuzayat in Burma</placeName>
+                    </location>, a distance of about 400 kilos. Of about 46,000 POW so employed
+                    16,000 died in eighteen months. In addition about 100,000 to 150,000 natives
+                    were employed of whom 60,000 to 100,000 died. This <pb n="241"/> railway was
+                    constructed for strategic purposes and the hastening of its completion in <date
+                        when-iso="1943">1943</date> greatly increased the death rate. POW were
+                    divided into forces distinguished by letters of the alphabet. </p>
+                <p> "F" force had 7,000 POW, and 250 Japanese and 30 Korean guards. Of these 3,100
+                    POW died in 3 months but only one of the guards. "A" force had 900 deaths among
+                    POW but only 4 among the guards. "H" force of 3,000 lost 900 POW in 3
+                    months.</p>
+                <p> The decision to construct this railway was made by Imperial General Headquarters
+                    after a request from Southern Army HQ. It was completed in <date
+                        when-iso="1943-10">October 1943.</date></p>
+                <p> On <date when-iso="1943-07-05"> 5th July 1943</date> the first Thailand protest
+                    relating to British POW was lodged with the accused
+                        <persName>SHIGEMITSU</persName> replied on <date when-iso="1943-07-24">24th
+                        July</date> that all POW were equitably treated and that the sick received
+                    proper medical attention. </p>
+                <p> On <date when-iso="1943-08-30">30th August</date> a further protest was lodged
+                    and permission sought for the Swiss Consul at Bangkok to visit the camps, but
+                        <persName>SHIGEMITSU</persName> replied on <date when-iso="1943-10-01">1st
+                        October 1943</date> that POW in Thailand received the same treatment as
+                    Japanese troops.</p>
+                <p> Southern Army HQ had been advised in 1942, before the railway work was started,
+                    that there was grave danger of the prisoners' contracting diseases, and, at the
+                    end of 1942, of the growing death rate. On Japanese figures the death rate
+                    jumped from 54 in <date when-iso="1942-11">November 1942</date> to 800 in <date
+                        when-iso="1943-08">August 1943</date>, total deaths being 2909.</p>
+                <p>
+                    <persName>WAKAMATSU</persName> of the General Staff inspected <location>
+                        <placeName>Burma</placeName>
+                    </location> and <location>
+                        <placeName>Thailand</placeName>
+                    </location> in 1943 as a result of reports that work was being delayed by the
+                    poor physical condition of and <pb n="242"/> high death rate among the POW. He
+                    reported in <date when-iso="1943-10">October 1943</date> to the General Staff on
+                    the diseases he had seen and of the deficiency of the food both in quality and
+                    quantity. </p>
+                <p> A regular monthly report of the POW Commandant in Thailand made on <date
+                        when-iso="1943-09-03">3rd September 1943</date> showed that of 40,314 POW,
+                    15,064 were sick.</p>
+                <p>On <date when-iso="1944-06-23">23rd June 1944</date> the International Red Cross
+                    Chairman proposed to the Japanese Foreign Minister that owing to sickness among
+                    POW working on the railway they be repatriated in accordance with the Geneva POW
+                    Convention, and that in the meantime the Red Cross would furnish medical
+                    supplies if Japan would arrange for their transportation and distribution. On
+                        <date when-iso="1944-07-11">11th July 1944</date> the Foreign Office sent
+                    copies of this to the War and Navy Ministers and the POW Information Bureau, and
+                    information was sought from Southern Army HQ, but nothing was done to give
+                    effect to the recommendation.</p>
+                <p rend="centered"><hi rend="underline">Wake Island</hi></p>
+                <p> Between <date when-iso="1942-04">April 1942</date> and <date when-iso="1945-07"
+                        >July 1945</date> the Swiss Minister sent 14 requests for information as to
+                    the fate of Americans captured on <location>
+                        <placeName>Wake Island</placeName>
+                    </location>. Only 3 replies were received, none of which contained any useful
+                    information; the fate of all except 173 had to be ascertained from other
+                    sources. 96 of the prisoners were executed on <date when-iso="1943-10-07">7th
+                        October 1943</date>, and the sole survivor a week later by the admiral in
+                    command of the Island. Although the Japanese Government knew that prisoners were
+                    detained on the island as labourers it refused to supply the information to the
+                    protecting power.</p>
+                <p rend="centered"><hi rend="underline">Japan</hi></p>
+                <p> On <date when-iso="1943-06-16">16th June 1943</date> the Swiss Minister
+                    suggested <pb n="243"/> additional soya products to supplement the prisoners'
+                    food in <location>
+                        <placeName>Japan</placeName>
+                    </location>. On <date when-iso="1943-06-23">23rd June</date> the Foreign
+                    Minister replied that there was no necessity for this; yet the War Ministry knew
+                    that POW in the <location>
+                        <placeName>Tokyo camps </placeName>
+                    </location> were dying of malnutrition since the report of the Army Medical
+                    College investigation, completed in May 1943, disclosed that prisoners were
+                    undernourished.</p>
+                <p rend="centered"><hi rend="underline">Dutch Hospital Ship, "Op Ten Noort"</hi></p>
+                <p> Protests regarding the seizure and use by the Japanese of the Dutch Hospital
+                    Ship "Op Ten Noort" elicited the reply that its capture was justified as the
+                    ship was being used for military purposes. No reply was received to further
+                    protests that at the time of capture the ship was not being so used; nor was any
+                    evidence on this matter brought before the Tribunal.</p>
+                <p rend="centered"><hi rend="underline">Philippines and China</hi></p>
+                <p> On <date when-iso="1942-12-23">23rd December 1942</date> the Swiss Minister
+                    protested on behalf of the USA against ill treatment of POW and internees in the
+                    Philippines and China, quoting specific incidents of torture, starvation and
+                    murder. After a reminder had been sent replies dated <date when-iso="1944-04-24"
+                        >24th</date> and <date when-iso="1944-04-28">28th April 1944</date> either
+                    denied the charges or attempted justification.</p>
+                <p> These complaints related to the <location>
+                        <placeName>Bridgehouse, Shanghai</placeName>
+                    </location>, where 53 American prisoners were crowded into vermin-infested cells
+                    with inadequate food, heat, medical and sanitary facilities. The reply was that
+                    the persons referred to had violated military regulations and were consequently
+                    criminals and treated as such.</p>
+                <p rend="centered"><hi rend="underline">Bataan Death March</hi></p>
+                <p>65,000 American and Filipino POW were kicked and beaten by guards on a nine days'
+                    march over 120 kilometers. <persName>Major-General King</persName>, Commanding
+                    General of the U.S. Forces <pb n="244"/> at Bataan testified that in destroying
+                    equipment prior to surrender he reserved enough motor transporation and gasoline
+                    to transport all troops out of Bataan, and asked for this transport, but was
+                    told that could not be considered.</p>
+                <p>The Japanese reply to protests admits the march but attributed it to lack of
+                    transport and denied ill treatment.</p>
+                <p rend="centered"><hi rend="underline">Camp O'Donnell</hi></p>
+                <p> Replies to protests that 2,200 Americans and 20,000 Filipinos died from lack of
+                    medical care did not deny the figures but stated that the inadequacy of medical
+                    supplies was due to the fact that the Americans had destroyed their own before
+                    capture.</p>
+                <p> Despite the knowledge of the Japanese Government similar conditions existed in
+                    the <location>
+                        <placeName>Philippines</placeName>
+                    </location> and <location>
+                        <placeName>Shanghai</placeName>
+                    </location> until Japan's defeat.</p>
+                <p rend="centered"><hi rend="underline">Murder of Crews of Sunken Merchant
+                        Ships</hi></p>
+                <p> 8 British, American and Dutch merchant vessels were sunk by Japanese submarines
+                    in the Indian Ocean between <date when-iso="1943-12-14">14th December
+                        1943</date> and <date when-iso="1944-10-29">29th October 1944</date> and one
+                    American vessel was sunk in the Pacific Ocean. The submarine in each case took
+                    or attempted to take the master of the ship on board and then murdered or
+                    attempted to murder the crews.</p>
+                <p> On <date when-iso="1944-06-05">5th June 1944</date> the Swiss Minister protested
+                    to <persName>SHIGEMITSU</persName> against the treatment of the masters and
+                    crews, and in November the Japanese Foreign Office denied the alleged
+                    atrocities. In <date when-iso="1945-05">May 1945</date> in reiterating the
+                    protest the Swiss Minister quoted an operation order dated <date
+                        when-iso="1943-03-20">20th March 1943</date> issued by the Admiral
+                    commanding the First Submarine Force which authorized the complete destruction
+                        <pb n="245"/> of the crews of sunken vessels except those needed for
+                    intelligence. </p>
+                <p rend="centered"><hi rend="underline">SS Richard Hovey</hi></p>
+                <p> On <date when-iso="1944-06-19">19th June 1944</date> the Swiss Minister
+                    protested that when the American vessel "Richard Hovey" was torpedoed the
+                    Japanese submarine rammed and then fired on the ship's boats. On <date
+                        when-iso="1944-11-28">28th November 1944</date>
+                    <persName>SHIGEMITSU</persName> denied these atrocities.</p>
+                <p rend="centered"><hi rend="underline">SS Jean Nicolet</hi></p>
+                <p> In a protest on 29th December 1944 against the manner of sinking the SS Jean
+                    Nicolet the Swiss Minister alleged that lifeboats were rammed and machine
+                    gunned; any survivors were taken aboard the submarine where they were robbed of
+                    life belts, papers, and valuables and bound in a sitting position on the deck;
+                    about half were made to run between rows of Japanese armed with bayonets and
+                    rifle butts and then forced off the stern onto the propellers: the submarine
+                    submerged while a large number of survivors were still on deck; the Captain and
+                    Chief Mate were taken below. </p>
+                <p> The Japanese reply of 15th May 1945 denied those allegations.</p>
+                <p rend="centered"><hi rend="underline">German and Japanese Policy to Murder Ships'
+                        Crews</hi></p>
+                <p> In a conversation with <persName>OSHIMA</persName> on <date
+                        when-iso="1942-01-03">3rd January 1942</date>, <persName>Hitler</persName>
+                    pointed out that America was short of crews for her shipping, and that as many
+                    of the crews as possible should be killed. Moreover, the effect on morale and
+                    recruiting had also to be considered, and he had given orders that foreign
+                    seamen were not to be taken prisoner and submarines were to shoot up the
+                    lifeboats. OSHIMA agreed and said that the Japanese were forced to follow
+                    similar methods.</p>
+                <pb n="246"/>
+                <p> On <date when-iso="1943-03-20">20th March 1943</date> the operation order of the
+                    First Submarine Fleet instructed submarine commanders to destroy the crews of
+                    sunken ships after taking such members into custody as might be useful for
+                    intelligence.</p>
+                <p rend="centered"><hi rend="underline">Recordings of Broadcasts</hi></p>
+                <p>On <date when-iso="1944-01-24">24th January 1944</date> a BBC London Broadcast
+                    gave full details of Japanese atrocities committed on American and Filipino
+                    prisoners, and on the same day the U.S. Secretary of State broadcast from San
+                    Francisco. These and other broadcasts were repeatedly made. On <date
+                        when-iso="1944-10-23">23rd October 1944</date> a warning was addressed to
+                        <persName>Field Marshal Terauchi</persName> by <persName>General
+                        MacArthur</persName> that he would hold enemy leaders responsible for the
+                    treatement meted out to prisoners. Transcripts of recordings of these broadcasts
+                    were circulated throughout the Foreign Office, the Board of Information and the
+                    War and Navy Ministries.</p>
+                <p rend="centered"><hi rend="underline">Official Japanese Documents Authorizing or
+                        Recording War Crimes</hi></p>
+                <p> Japanese official documents show that the Japanese Government compelled POW to
+                    engage in military labour.</p>
+                <p> (i) In a letter dated <date when-iso="1942-05-06">6th May 1942</date> to the
+                    Chief of Staff of the Taiwan Army, <persName>KIMURA</persName>, Vice Minister of
+                    War, authorized the confinement of white POW in <location>
+                        <placeName>Korea</placeName>
+                    </location>, <location>
+                        <placeName>Formosa</placeName>
+                    </location> and <location>
+                        <placeName>Manchuria</placeName>
+                    </location> "so that they can be used for the enlargement of our production and
+                    as military labour".</p>
+                <p> (ii) A Secret Service Police report for <date when-iso="1942-08">August
+                        1942</date> mentioned that 150 American POW from <location>
+                        <placeName>Zentsuji POW camp</placeName>
+                    </location>had been sent to <location>
+                        <placeName>OSAKA</placeName>
+                    </location> to relieve "the labour shortage suffered in the military works".</p>
+                <p> (iii) On <date when-iso="1942-08-22">22nd August 1942</date>,
+                        <persName>KIMURA</persName>, wrote to the Chief of Staff of the Kwantung
+                    Army of a plan to employ <pb n="247"/> 1500 POW on the production of machine
+                    tools for munitions.</p>
+                <p> (iv) A conference of the Cabinet Planning Board decided on <date
+                        when-iso="1942-08-15">15th August 1942</date> to employ POW labour on
+                    construction work for national defence.</p>
+                <p> (v) On <date when-iso="1942-10-02">2nd October 1942</date> the Chief of Staff of
+                    the Eastern District Army requested permission from <persName>TOJO</persName> to
+                    employ POW at "Industrial labour for the expansion of productive power" in
+                    "Munition factories for expanding production". A draft approval by the War
+                    Minister was attached.</p>
+                <p> (vi) A report of the governor of Kanagawa dated <date when-iso="1942-10-06">6th
+                        October 1942</date> stated the employment of POW labour had facilitated
+                    transportation and "will also contribute greatly to the expansion of production,
+                    including munitions of war."</p>
+                <p> (vii) A report dated <date when-iso="1942-09-04">4th September 1942</date> from
+                        <persName>ITAGAKI</persName> Commander of the Korean Army to accused TOJO
+                    showed the regulations in Korean POW Camps provided that POW were to be used
+                    "according to their skill, age, and physical strength, thereby using them in
+                    industrial development and military labour."</p>
+                <p rend="centered"><hi rend="underline">Employment of Officer POW</hi></p>
+                <p>Article 6 of teh Hague Convention of 1907 and Article 27 of the Geneva POW
+                    Convention, 1929, forbid the compulsory employment of officer POW.</p>
+                <p> (i) On <date when-iso="1942-06-03">3rd June 1942</date> the Director of the POW
+                    custody division sent a circular to army units stating that although it was
+                    prohibited to make officer POW work, "it is the policy of the Central
+                    Authorities . . . to have them volunteer to work in accordance with their
+                    respective status, intelligence, strength, etc."</p>
+                <p> (ii) On <date when-iso="1942-09-04">4th September 1942</date>
+                    <persName>ITAGAKI</persName>, sent to <persName>TOJO</persName>
+                    <pb n="248"/> a copy of regulations in use in Korea. Article 3 read "All
+                    prisoners of war including officers shall work. But guide those above warrant
+                    officers according to status, ability, and physical strength to work
+                    voluntarily. . . . .".</p>
+                <p rend="centered"><hi rend="underline">Protection of POW from Insult</hi></p>
+                <p> Article 2 of the Geneva POW Convention 1929 requires that POW must at all times
+                    be protected, particularly against insults and public curiosity.</p>
+                <p> (i) A report of the Governer of Kanagawa Prefecture of <date
+                        when-iso="1942-10-06">6th October 1942</date> mentioned how the morale of
+                    the local population was raised by seeing POW at labour.</p>
+                <p> (ii) On <date when-iso="1942-03-04">4th March 1942</date> the Chief of Staff of
+                    the Korean Army requested <persName>KIMURA</persName> to intern 1000 British and
+                    1000 American POW in Korea to stamp out the respect of the Koreans for Britain
+                    and America.</p>
+                <p> On 5th March KIMURA replied that 1000 POW would be sent, but suggested that the
+                    buildings proposed to be used for housing the POW were too good.</p>
+                <p> (iii) On <date when-iso="1942-03-23">23rd March 1942</date>
+                    <persName>ITAGAKI</persName>, Commanding Korean Army, pointed out to TOJO that
+                    the plan to intern British and American POW in Korea was aimed at "stamping out
+                    any ideas of worship of Britain and America which the greater part of Korea
+                    still retains at bottom".</p>
+                <p> (iv) On 13th October 1942 the Chief of Staff of the Korean Army reported to
+                    KIMURA that a parade of 998 POW through three towns in Korea "was very
+                    successful in driving all admiration for the British and Americans out of their
+                    minds......."</p>
+                <p rend="centered"><hi rend="underline">Compulsory Paroling of POW</hi></p>
+                <p> Article II <note>of the Annex</note> of the Hague Convention of 1907 states that
+                    a POW cannot be compelled to accept his liberty on parole.</p>
+                <pb n="249"/>
+                <p> (i) Article 5 of the Japanese "Detailed Regulations for Treatment of Prisoners
+                    of War" reads "As soon as prisoners of war have been imprisoned they shall be
+                    administered an oath forbidding them from making an escape". Those who did not
+                    comply were deemed to have intentions of escaping and placed under strict
+                    surveillance.</p>
+                <p> Article 10 of the Japanese "Discipline law for POW" provided an minimum penalty
+                    of one year's hard labour for those who violated the oath.</p>
+                <p> (ii) On <date when-iso="1942-09-01">1st September 1942</date> the Commander of
+                    the Taiwan Army in reporting the arrival of POW stated "At first
+                        <persName>Lieutenant General Percival</persName> and others refused to make
+                    an oath, but finally all but three signed their names. After that they became
+                    obedient".</p>
+                <p> (iii) The Chief of Staff of the Korean Army reported on <date
+                        when-iso="1942-10-13">13th October 1942</date> that immediately after the
+                    arrival of POW in Korea the Japanese succeeded in making them all take the
+                    oath.</p>
+                <p rend="centered"><hi rend="underline">Ill Treatment of POW</hi></p>
+                <p> Article 4 of the Hague Convention of 1907 and Article 2 of the Geneva POW
+                    Convention of 1929 require that POW will at all times be humanely treated.</p>
+                <p> (i) Japanese Censorship Instructions dated <date when-iso="1943-12-20">20th
+                        December 1943</date> from the Chief of the Information Bureau of the War
+                    Ministry prohibited any reports which might give the impression of cruel
+                    treatment of POW as this might give the enemy food for evil propaganda and bring
+                    harm to Japanese interned abroad.</p>
+                <p> (ii) Only trivial punishments were inflicted on Japanese foudn guilty of
+                    offences against POW.</p>
+                <pb n="250"/>
+                <p rend="centered"><hi rend="underline">Punishment for Escape</hi></p>
+                <p> The Hague and Geneva Conventions provide that only disciplinary punishment may
+                    be inflicted on POW for escaping, and this consists of arrest for not more than
+                    30 days.</p>
+                <p> According to Japanese official figures, between <date when-iso="1942-06-02">2d
+                        June 1942</date> and <date when-iso="1945-03-03">3d March 1945</date>, 64
+                    prisoners were convicted by Court Martial for violation of the non-escape oath
+                    and received sentences ranging from one year's imprisonment to death.</p>
+                <p> Article 29 of the Hague Convention states, "A person can be considered a spy
+                    only when, acting clandestinely or on false pretenses, he obtains or endeavours
+                    to obtain information in the zone of operations of a belligerent, with the
+                    intention of communicating it to the hostile party."</p>
+                <p rend="centered"><hi rend="underline">Oaths Or Agreements Not To Escape</hi></p>
+                <p> Coercive methods were adopted to compel prisoners to make the oath or agreement
+                    not to escape and the prisoners were not given their liberty after having given
+                    the undertaking not to escape.</p>
+                <p> At <location>
+                        <placeName>Changi Prisoners of War Camp in Singapore</placeName>
+                    </location> on <date when-iso="1942-08-31">31st August 1942</date>, all
+                    prisoners were ordered to sign a declaration that they would not escape. They
+                    refused. On the evening of <date when-iso="1942-09-02">2d September </date>,
+                    16,000 prisoners were herded into <location>
+                        <placeName>Selarang Barrack Square</placeName>
+                    </location>, and kept there without food or latrine facilities for four days at
+                    which time the prisoners agreed, under compulsion, to sign the declaration.</p>
+                <p> At <location>
+                        <placeName>River Valley Road</placeName>
+                    </location> and <location>
+                        <placeName>Havelock Road Camps</placeName>
+                    </location>
+                    <persName>Colonel Heath</persName>, who was in command of the prisoners, <pb
+                        n="251"/> refused to have them sign the declaration because it was illegal.
+                    He was told by the Japanese that any prisoner who failed to sign would be
+                    confined in a narrow space and punished until he did. Having learnt what
+                    happened at Changi he ordered the prisoners to sign. </p>
+                <p> At <location>
+                        <placeName>North Point</placeName>
+                    </location> and <location>
+                        <placeName>Shamshuipo Camp in <sic>Hongkong</sic>
+                        </placeName>
+                    </location> in <date when-iso="1942-05">May 1942</date>, all prisoners were
+                    compelled to swear an affidavit that they would not escape. Some refused and
+                    were thereupon imprisoned in <location>
+                        <placeName>Stanley Gaol</placeName>
+                    </location>.</p>
+                <p> Earlier, in <date when-iso="1942-01">January 1942</date>, patients at the <location>
+                        <placeName>Bowen Road Hospital</placeName>
+                    </location> were taken out and placed in the hot sun under threat to leave them
+                    there until all staff and patients had signed.</p>
+                <p>Early in <date when-iso="1942-09">September 1942</date>, at <location>
+                        <placeName>Sandakan Camp in Borneo</placeName>
+                    </location>, the prisoners were ordered to sign. The Commanding Officer,
+                        <persName>Lieutenant Colonel Walsh</persName>, said that he would not sign.
+                    He was immediately tied up and beaten and a firing party was detailed to execute
+                    him. To save his life the prisoners signed the Declaration.</p>
+                <p> At <location>
+                        <placeName>Tandjong Priok in Java</placeName>
+                    </location> an officer was badly beaten with a chain for refusing to sign.
+                    Similar treatment was meted out to officers and men at <location>
+                        <placeName>Cycle Camp in Batavia</placeName>
+                    </location> and they were told that the prisoners would be deprived of all food
+                    until they signed.</p>
+                <p> In <date when-iso="1942-09">September of 1942</date> at <location>
+                        <placeName>Palembang, Batavia</placeName>
+                    </location>, because they refused to sign, 650 prisoners were locked up in a
+                    small school, the sick were thrown out of the hospital and the senior officers
+                    put in solitary confinement. On account of the death of one of the sick, the
+                    prisoners signed on the eighth day.</p>
+                <pb n="252"/>
+                <p> At <location>
+                        <placeName>Zentsuji Camp</placeName>
+                    </location>, 41 prisoners were kept in confinement from <date
+                        when-iso="1942-06-14">14th June 1942</date> until <date
+                        when-iso="1942-09-23">23d September 1942</date> for refusing to take the
+                    oath and were finally threatened with execution if they persisted.</p>
+                <p>
+                    <persName>Brigadier Blackburn</persName> refused to sign the non-escape form at <location>
+                        <placeName>Karenko Camp in Formosa</placeName>
+                    </location>; he was stripped, beaten and kicked and left in a cell overnight
+                    without clothes.</p>
+                <p rend="centered"><hi rend="underline">Massacres</hi></p>
+                <p> The massacres are in three classes: The first committed during the course of, or
+                    immediately after the completion of, some military operation.</p>
+                <p>The greatest was the rape of Nanking.</p>
+                <p> At <location>
+                        <placeName>Hongkong</placeName>
+                    </location> between the <date when-iso="1941-12-17">17th</date> and <date
+                        when-iso="1941-12-25">25th December 1941</date>, the Japanese massacred
+                    about 150 Canadians, mostly medical personnel, who had surrendered. At <location>
+                        <placeName>St. Stephen's Hospital</placeName>
+                    </location> they bayonetted to death or beheaded 70 patients and 25 members of
+                    the staff.</p>
+                <p> A Japanese force captured 75 Indian troops near <location>
+                        <placeName>Ipoh</placeName>
+                    </location> on <date when-iso="1941-12-27">27th December 1941</date>, tied them
+                    up and bayonetted them to death. A month later they captured and massacred 150
+                    Australian and Indian troops at <location>
+                        <placeName>Parit Sulong</placeName>
+                    </location>.</p>
+                <p> In <location>
+                        <placeName>Tarakan, Borneo</placeName>
+                    </location>, on <date when-iso="1942-01-12">12th January 1942</date>, 245 Dutch
+                    prisoners were machine gunned and bayonetted to death, whilst at <location>
+                        <placeName>Balikpapan</placeName>
+                    </location> on <date when-iso="1942-02-24">24th February 1942</date> the white
+                    population of 80 to 100 Europeans was brutally murdered because of the
+                    destruction of oil wells and equipment.</p>
+                <p> On <date when-iso="1942-02-14">14th</date> and <date when-iso="1942-02-15">15th
+                        February 1942</date>, near <location>
+                        <placeName>Katong Hospital</placeName>
+                    </location> the personnel of an ambulance were captured <pb n="253"/> and
+                    killed, and later on the same day troops of the Imperial Guard Division went
+                    through the ground floor of the <location>
+                        <placeName>Alexandria Hospital, Singapore </placeName>
+                    </location>, bayonetting patients as they lay in their beds, and even on the
+                    operating table. Members of the staff were also bayonetted. A further massacre
+                    on the following day brought up the total of those murdered at the hospital to
+                    323.</p>
+                <p> Five thousand Chinese were massacred on the <date when-iso="1942-02-22"
+                        >22d</date> and <date when-iso="1942-02-23">23d February</date> at <location>
+                        <placeName>Singapore</placeName>
+                    </location>. Between <date when-iso="1942-03">March</date> and <date
+                        when-iso="1942-04">April 1942</date> many thousand Chinese were arrested and
+                    executed in <location>
+                        <placeName>Johore Province</placeName>
+                    </location>.</p>
+                <p>At <location>
+                        <placeName>Laha on Ambon Island</placeName>
+                    </location>, between the <date when-iso="1942-02-01">1st</date> and <date
+                        when-iso="1942-02-20">20th of February 1942</date>, over 300 Australian and
+                    Dutch prisoners were murdered in four batches by a naval force on the order of
+                        <persName>Admiral HATAKEYAMA</persName>.</p>
+                <p> In <location>
+                        <placeName>New Britain</placeName>
+                    </location>, at <location>
+                        <placeName>Tol Tol</placeName>
+                    </location> and <location>
+                        <placeName>Waitavallo</placeName>
+                    </location>, in <date when-iso="1942-02">February 1942,</date>, about 160
+                    Australians, many wearing brassards of medical personnel, were captured and shot
+                    or bayonetted.</p>
+                <p> In the same month at <location>
+                        <placeName>Banks Island in Sumatra</placeName>
+                    </location>, sixty men, some stretcher cases, and 22 Army Nursing Sisters
+                    managed to get ashore after their ship had been sunk by bombing. They gave
+                    themselves up to the Japanese, who bayonetted the stretcher cases and machine
+                    gunned the remainder.</p>
+                <p>At <location>
+                        <placeName>Bandoeng and Lembang in Java</placeName>
+                    </location>, 150 Dutch prisoners of war were murdered early in <date
+                        when-iso="1942-03"> March 1942</date>, whilst later in the same month 25
+                    people, including women and children, were taken out of the hospital <pb n="254"
+                    /> at <location>
+                        <placeName>Soebang</placeName>
+                    </location> and shot or bayonetted by the Japanese.</p>
+                <p> Other massacres took place at <location>
+                        <placeName>Tiga Rungu in Sumatra</placeName>
+                    </location>, at <location>
+                        <placeName>Longnawen in Borneo</placeName>
+                    </location> and at <location>
+                        <placeName>Milne Bay in New Guinea</placeName>
+                    </location>. In <location>
+                        <placeName>New Guinea</placeName>
+                    </location> a captured Japanese explained that orders had been given to mutilate
+                    prisoners to discourage Japanese troops from surrendering for fear of
+                    reprisals.</p>
+                <p> In <location>
+                        <placeName>French Indo-China</placeName>
+                    </location> in <date when-iso="1945-03">March 1945</date> over 600 persons --
+                    men, women, and children, soldiers and civilians -- were massacred by the 37th
+                    Division.</p>
+                <p> In none of the above-mentioned cases was any of the victims tried for any
+                    offense.</p>
+                <p> The second class of massacres was those committed to terrorize the civilian
+                    population.</p>
+                <p> At <location>
+                        <placeName>Palembang</placeName>
+                    </location> in <date when-iso="1943-07">July 1943</date> a large number of
+                    prisoners of war and civilians was tortured by the Kempei Tai in an effort to
+                    discover the parties to a plot to stir up the Ambonese. Failing to get adequate
+                    evidence they executed without trial 80 Ambonese.</p>
+                <p> Between <date when-iso="1943-07">July 1943</date> and <date when-iso="1944-03"
+                        >March 1944</date> approximately 293 persons were executed without trial in <location>
+                        <placeName>Java</placeName>
+                    </location> on suspiciion of having been engaged in anti-Japanese activities.
+                    This was done on the order of the General Officer commanding the Japanese Forces
+                    on the island.</p>
+                <p> A revolt took place at <location>
+                        <placeName>Jesselton, Borneo</placeName>
+                    </location>, on <date when-iso="1943-10-10">10th October 1943</date>. Suspecting
+                    that Suluks from a number of small islands north of Borneo had taken part in
+                    this revolt the Kempei Tai arrrested, tortured and murdered almost the whole of
+                    the male population of the these islands. In addition 170 Chinese were executed
+                    in connection with this revolt.</p>
+                <p> At <location>
+                        <placeName>Pontianak</placeName>
+                    </location> in <date when-iso="1944-01">January 1944</date>, 1340 Dutch, Chinese
+                    and Indonesians were executed for having allegedly <pb n="255"/> conspired
+                    against the Japanese. Only 63 were given a trial.</p>
+                <p> Other massacres took place at <location>
+                        <placeName>Sinkawang in Borneo</placeName>
+                    </location>, <location>
+                        <placeName>Timor</placeName>
+                    </location> and <location>
+                        <placeName>Burma</placeName>
+                    </location>.</p>
+                <p> The third class of massacres are those which were perpetrated in anticipation of
+                    a Japanese withdrawal or of an Allied landing.</p>
+                <p> The motive was probably that of preventing prisoners from rendering any
+                    assistance to the invading force. As early as <date when-iso="1942-10">October
+                        1942</date> at <location>
+                        <placeName>Tarawa in the Gilbert and Ellice Islands</placeName>
+                    </location>, 22 New Zealand prisoners were murdered after an American air
+                    raid.</p>
+                <p> In <date when-iso="1943-01">January 1943</date>, 527 British prisoners of war
+                    had been transported to <location>
+                        <placeName>Ballale Island in the Solomons</placeName>
+                    </location> to construct an aerodrome. Most of the them died in the next few
+                    months. In <date when-iso="1943-04">April</date> the Japanese feared that the
+                    Allies would land and in pursuance of previously made plans bayonetted to death
+                    the 90 surviving prisoners.</p>
+                <p> A few months later the Naval Commander at <location>
+                        <placeName>Wake Island</placeName>
+                    </location>, <persName>Admiral SAKIBARA</persName>, caused the 97 surviving
+                    prisoners of war to be executed because he expected an American landing.</p>
+                <p> At <location>
+                        <placeName>New Guinea</placeName>
+                    </location> 162 Indian prisoners, who were too sick to move, were massacred in
+                        <date when-iso="1944-05">May 1944</date> to prevent them from being
+                    recovered by advancing Allied forces.</p>
+                <p> In various parts of <location>
+                        <placeName>Borneo</placeName>
+                    </location> 250 to 300 prisoners were executed between <date when-iso="1945-06"
+                        >June</date> and <date when-iso="1945-08"/>August 1945 because they were too
+                    sick to be withdrawn inland before the anticipated Allied landing.</p>
+                <p> At <location>
+                        <placeName>Puerto Princessa, Palawan</placeName>
+                    </location>, on <date when-iso="1944-12-14">14th December 1944</date>, 141
+                    American prisoners of war were murdered. <pb n="256"/> They had been confined in
+                    air raid shelters, petrol was poured into the shelters and set alight, and those
+                    who endeavored to escape were shot.</p>
+                <p> At <location>
+                        <placeName>Ocean Island</placeName>
+                    </location>, just before the Japanese surrender, they slaughtered the surviving
+                    native population of 100. There was one survivor.</p>
+                <p rend="centered"><hi rend="underline">Sandakan-Ranau Death March</hi></p>
+                <p> In <date when-iso="1945-02">February 1945</date>, 470 prisoners were made to
+                    march from <location>
+                        <placeName>Sandakan</placeName>
+                    </location> to <location>
+                        <placeName>Ranau</placeName>
+                    </location> in batches of 50 with Japanese guards. Men who dropped out from
+                    exhaustion were immediately shot. For three days the only food allotted to 40
+                    men was six cucumbers. Many men were lost through being shot by the Japanese
+                    when the fell back. Of one party of 50 who started out, 37 reached <location>
+                        <placeName>Ranau</placeName>
+                    </location>. Of the 470 who left <location>
+                        <placeName>Sandakan</placeName>
+                    </location> in <date when-iso="1945-02">February 1945</date>, only 6 were alive
+                    in <date when-iso="1945-06">June 1945</date>. All of the Japanese were in good
+                    physical condition. In <date when-iso="1945-06">June 1945</date> a party of 140
+                    arrived from <location>
+                        <placeName>Sandakan</placeName>
+                    </location>. These were the survivors out of parties totalling over 1800 men.
+                    These six escaped from the Japanese.</p>
+                <p rend="centered"><hi rend="underline">Threats</hi></p>
+                <p> In <date when-iso="1943-06">June 1943</date>, the Commandant of Naval Police at <location>
+                        <placeName>Tarakan</placeName>
+                    </location> said that in the event of an Allied landing the prisoners would be
+                    beheaded. At <location>
+                        <placeName>Nicobar Island</placeName>
+                    </location> in <date when-iso="1945-07">July 1945</date> the Naval Commander
+                    told the internees that if the enemy landed all of the internees would be
+                    killed.</p>
+                <p>In <location>
+                        <placeName>Borneo</placeName>
+                    </location> a similar threat was made; whilst at <location>
+                        <placeName>Nakompaton Camp in Thailand</placeName>
+                    </location>, prisoners were told by one of the Japanese clerks in the Adjutant's
+                    office that he had seen a secret order for the killing of <pb n="257"/>
+                    prisoners in the event of an Allied landing. Machine gun posts had been set up
+                    covering the huts in which the prisoners were housed.</p>
+                <p rend="centered"><hi rend="underline">Punishment for Escaping, In Excess of Hague
+                        Convention 1907, And The Geneva Convention 1929.</hi></p>
+                <p> At <location>
+                        <placeName>Guadalcanal</placeName>
+                    </location> in <date when-iso="1942-09">September 1942</date>, two recaptured
+                    escapees were handed over to the medical officer who dissected them whilst still
+                    alive.</p>
+                <p> At <location>
+                        <placeName>Ballale Island</placeName>
+                    </location> a British escapee was executed without trial in <date
+                        when-iso="1943-01">January 1943</date>, as guilty of desertion from the
+                    Japanese Army. At <location>
+                        <placeName>Shanghai</placeName>
+                    </location>, in <date when-iso="1942-03">March 1942</date>, an American escaped
+                    prisoner was tried for desertion from the Japanese Army and sentenced to 10
+                    years' imprisonment.</p>
+                <p>In <location>
+                        <placeName>Ambon</placeName>
+                    </location> in <date when-iso="1942">1942</date> eleven prisoners who were
+                    recaptured outside the camp were beaten for periods up to eleven days and then
+                    executed, and in <date when-iso="1945">1945</date> two more recaptured prisoners
+                    were executed.</p>
+                <p> In <location>
+                        <placeName>Celebes</placeName>
+                    </location> six Dutch prisoners of war who had been recaptured after escaping
+                    were beheaded at <location>
+                        <placeName>Macassar</placeName>
+                    </location> in <date when-iso="1942-09">September 1942</date>, and at <location>
+                        <placeName>Teragan</placeName>
+                    </location> three Indians were executed for the same reason in <date
+                        when-iso="1945">1945</date>.</p>
+                <p> Between <date when-iso="1942-04">April</date> and <date when-iso="1942-05">May
+                        1942</date> at various places in <location>
+                        <placeName>Java</placeName>
+                    </location> there were seven separate cases of recaptured prisoners being
+                    exectued for escaping, the total number so punished being 24.</p>
+                <p> In <location>
+                        <placeName>Sumatra</placeName>
+                    </location> three escapees were executed at <location>
+                        <placeName>Palembang</placeName>
+                    </location>, and eight at the <location>
+                        <placeName>island of Siberaeft</placeName>
+                    </location>.</p>
+                <p> At <location>
+                        <placeName>Pontianak</placeName>
+                    </location>, <location>
+                        <placeName>Bandjermasin</placeName>
+                    </location>, <location>
+                        <placeName>Tarakan</placeName>
+                    </location> and <location>
+                        <placeName>Ranau</placeName>
+                    </location>, all in <location>
+                        <placeName>Borneo</placeName>
+                    </location>, a total of ten prisoners were executed<pb n="258"/> between <date
+                        when-iso="1942-06">June 1942</date> and <date when-iso="1945-03">March
+                        1945</date> for escaping.</p>
+                <p> Seven recaptured prisoners were executed in <location>
+                        <placeName>Burma</placeName>
+                    </location>, three in <location>
+                        <placeName>Mukden</placeName>
+                    </location>, and eight in <location>
+                        <placeName>Hongkong</placeName>
+                    </location>.</p>
+                <p> In addition to the foregoing executions, all without any trial, two British
+                    officers were tortured, tried and shot at <location>
+                        <placeName>Hongkong</placeName>
+                    </location> in <date when-iso="1943-12">December 1943</date> for endeavouring to
+                    effect a wholesale escape.</p>
+                <p rend="centered"><hi rend="underline">Execution of Allied Airmen</hi></p>
+                <p>On <date when-iso="1942-04-18">18th April 1942</date>, American planes commanded
+                    by <persName>Colonel Doolittle</persName> raided <location>
+                        <placeName>Japan</placeName>
+                    </location>. The crews of two planes were captured in <location>
+                        <placeName>China</placeName>
+                    </location>. Subsequently to capture "Regulations for Punishment of Enemy Air
+                    Crew" were on <date when-iso="1942-08-13">13th August 1942</date> made in <location>
+                        <placeName>China</placeName>
+                    </location> by the accused <persName>HATA</persName>. The crews were tried by
+                    Court Martial under these Regulations and sentenced to death. The sentences in
+                    respect to five were commuted to life imprisonment. The remaining three were
+                    executed. These Regulations had provided a death penalty for bombing, strafing
+                    or otherwise attacking civilians or non-military objectives.</p>
+                <p>
+                    <sic>Exdcutions</sic> were carried out without trial in <location>
+                        <placeName>Bougainville</placeName>
+                    </location>, <location>
+                        <placeName>New Britain</placeName>
+                    </location>, <location>
+                        <placeName>New Guinea</placeName>
+                    </location>, <location>
+                        <placeName>Ambon</placeName>
+                    </location>, <location>
+                        <placeName>Celebes</placeName>
+                    </location>, <location>
+                        <placeName> Batavia</placeName>
+                    </location>, <location>
+                        <placeName>Borneo</placeName>
+                    </location>, and <location>
+                        <placeName>Burma</placeName>
+                    </location>. Fifty-six Allied airmen were executed. These territories consist
+                    mostly of sparsely populated jungle country. Moreover the populations were
+                    friendly to the Allies. In <location>
+                        <placeName>New Guinea</placeName>
+                    </location> the officer who issued the orders for the execution admitted that he
+                    had done so because the planes <pb n="259"/> had bombed his battery.</p>
+                <p> In <date when-iso="1944-12">December 1944</date>, three American airmen who had
+                    parachuted in aerial combat near <location>
+                        <placeName>Hankow</placeName>
+                    </location> were marched through the streets, severly beaten, soaked with
+                    gasoline and set on fire, and in the <location>
+                        <placeName>Philippines</placeName>
+                    </location> in <date when-iso="1945-03">March 1945</date>, two American airmen
+                    were beheaded at <location>
+                        <placeName>Cebu</placeName>
+                    </location>.</p>
+                <p>In <location>
+                        <placeName>Singapore</placeName>
+                    </location> two members of the crew of a B-29 which had been shot down were
+                    lodged in the <location>
+                        <placeName>Outram Road Gaol</placeName>
+                    </location> which was under <persName>DOHIHARA</persName>'s control, as
+                    Commander of the 7th Area Army. They were a mass of burns and black from head to
+                    foot, but received no medical treatment.</p>
+                <p>Between <date when-iso="1945-05">May</date> and <date when-iso="1945-07">July
+                        1945</date>, when the accused <persName>ITAGAKI</persName> was the Commander
+                    of the 7th Area Army, 26 Allied airmen were taken from the <location>
+                        <placeName>Outram Road Gaol</placeName>
+                    </location> and executed.</p>
+                <p> In <location>
+                        <placeName>Japan</placeName>
+                    </location>, between <date when-iso="1945-06">June</date> and <date
+                        when-iso="1945-08">August 1945</date>, 112 airmen were executed and of these
+                    99 were not tried.</p>
+                <p rend="centered"><hi rend="underline">Treatment of Prisoners of War and
+                        Inhabitants by the Kempei Tai</hi></p>
+                <p> The tortures which suggest a common training were the water torture, the
+                    electric torture, suspending a victim for long periods, burning various parts of
+                    the body and placing a pole between the victim's knees and jumping on the
+                    victim's thighs. All of these tortures were adminstered by the Kempei Tai at <location>
+                        <placeName>Singapore</placeName>
+                    </location>, <location>
+                        <placeName>Shanghai</placeName>
+                    </location>, <location>
+                        <placeName>French Indo-China</placeName>
+                    </location>, <location>
+                        <placeName>Borneo</placeName>
+                    </location>, <location>
+                        <placeName>Java</placeName>
+                    </location> and <location>
+                        <placeName>Sumatra</placeName>
+                    </location>, while in <location>
+                        <placeName>Burma</placeName>
+                    </location> and <location>
+                        <placeName>Timor</placeName>
+                    </location> many were applied. In <location>
+                        <placeName>Japan</placeName>
+                    </location> there is evidence of the water torture having been applied to the
+                    Doolittle Fliers.</p>
+                <pb n="260"/>
+                <p rend="centered"><hi rend="underline">Transportation of Prisoners of War by
+                        Sea</hi></p>
+                <p> Evidence shows that in nearly every case there was crowding, underfeeding,
+                    inadequate sanitation and ventilation, lack of medical supplies and water, and
+                    ill-treatment.</p>
+                <p rend="centered"><hi rend="underline">General Matters</hi></p>
+                <p> In every installation throughout <location>
+                        <placeName>Japan</placeName>
+                    </location> and the occupied countries where prisoners of war were held, they
+                    were starved, subjected to corporal punishment, and their sick were neglected.
+                    Allied prisoners of war were compelled to labor at work having a direct
+                    connection with operations of war. For the most part this consisted of the
+                    construction of aerodromes and building defences against anticipated attacks by
+                    the Allied forces.</p>
+                <p rend="centered"><hi rend="underline">Red Cross Visits Prohibited</hi></p>
+                <p> Repeated attempts were made by the International Red Cross and the Protecting
+                    Powers to obtain permission for their representative to visit POW camps, but
+                    these attempts failed almost invariably.</p>
+                <p> In <location>
+                        <placeName>Singapore</placeName>
+                    </location>, the resident International Red Cross Delegate was not permitted to
+                    visit any of the camps.</p>
+                <p rend="centered"><hi rend="underline">Concealing Guilt</hi></p>
+                <p> Official orders issued to destroy documents, and authorizing the escape of
+                    guilty persons show that the Japanese Government was well aware of the fact that
+                    war crimes had been committed on a large scale.</p>
+                <p> Adjutant General under the order of the War Minister on <date
+                        when-iso="1945-08-14">14th August 1945</date> issued a notification to all
+                    Army <pb n="261"/> troops that "the confidential documents held by every troop
+                    should be destroyed by fire immediately" and instructions were issued by the
+                    Chief of the Military Police on <date when-iso="1945-08-14">14th August
+                        1945</date> ordering the destruction of documents.</p>
+                <p> A circular was sent by the Chief of the Prisoner of War Information Bureau to
+                    the Korean Army, Taiwan Army, Kwantung Army, North China Army, to Hongkong,
+                    Borneo, Thailand, Malaya and Java on <date when-iso="1945-08-20">20th August
+                        1945</date>. It stated, "Personnel who ill treated prisoners of war and
+                    internees or who are held in extremely bad sentiment by them are permitted to
+                    take care of it by immediately transferring or fleeing without trace. Moreover
+                    documents which would be unfavorable for us in the hands of the enemy are to be
+                    treated in the same way as secret documents and destroyed when finished
+                    with."</p>
+                <p rend="centered"><hi rend="underline"><del>Conclusiom</del> Common Plan <note>of
+                            Atrocities - Conclusion</note></hi></p>
+                <p>The war crimes committed by the Japanese armed forces were exceeded in number and
+                    hideousness only by these committ<del>t</del>ed by the Germans under Hitler.
+                    They were so many and so terrible and raised such a storm of protest throughout
+                    the Allied world that they <del>need</del><note>must</note> have been known to
+                    all Japanese leaders, and more particularly by the accused. Yet nothing
+                    effective was done to prevent them. This fact, and the further fact that these
+                    war crimes were of a similar kind throughout the various Japanese prisoner of
+                    war camps in <location>
+                        <placeName>Japan</placeName>
+                    </location> and the territories occupied by her forces suggest a common plan.
+                    However they could have been the result of the application in exaggerated form
+                    of the dreadful Japanese <pb n="262"/> Army discipline and Kempei Tai and other
+                    police methods to Allied prisoners of war and internees.</p>
+                <p>Of course, the accused are not excused because the Army and police were the
+                    actual perpetrators. Even civilians among the accused, like
+                        <persName>TOGO</persName> and <persName>HIROHATA</persName>, were in a
+                    position to protest or to appeal to the Emperor, and if necessary, to bring
+                    about a crisis in the Japanese government in order to prevent atrocities. The
+                    consequences to them <del>are beside the point</del><note>were beside the
+                        point</note>. They had to take whatever risks were incurred inteh execution
+                    of their clear duty.</p>
+                <p> The nature and extent of the atrocities and the volume of unsuccessful protests
+                    suggests that the accused must have known what was taking place and at least
+                    either acquiesced through fear or otherwise or were indifferent.</p>
+                <p>There is no ground for assuming that the Japanese accused would not have
+                    permitted these atrocities had they been aware of them and in a position to
+                    prevent them. We know from the German atrocities, which were mainly the work of
+                    civilians, of what excesses modern war criminals <del>,</del> are capable.
+                    Actually the German atrocities vastly exceeded the Japanese in cruelty and
+                    number. At <location>
+                        <placeName>Breendonck</placeName>
+                    </location> internees were tortured by slowly forcing their legs apart until the
+                    body split at the crotch. Elsewhere a gorilla-llike man was employed to break
+                    the bones of inmates by twisting <pb n="263"/> their arms and legs. Inoculations
+                    with pus from diseased persons were performed on 600 to 800 inmates of <location>
+                        <placeName>Dachau</placeName>
+                    </location>. The persons selected were healthy and free from social diseases.
+                    The inoculations led in many cases to general blood-poisoning, intense agony and
+                    amputations. As one limb was lopped off another was inoculated until all limbs
+                    were amputated. Most of the victims became permanent invalids and were then
+                    murdered.</p>
+                <p> This was not the work of a few
+                    <del>maniacs</del><del><note>sadists</note></del>; it was organized under the
+                    government with whom the Japanese made the <note><unclear reason="illegible"/>
+                        ,the</note> Anti-Comintern, the Tri-Partite, and the No-Separate-Peace
+                    Pacts. Over a million were murdered in gas chambers at <location>
+                        <placeName>Harthein</placeName>
+                    </location><note>.</note>
+                    <del>t</del><note>T</note>he rate of such murders reached twelve thousand a day
+                    at <location>
+                        <placeName>Auschwitz</placeName>
+                    </location> where two and a half million were murdered.</p>
+                <p>But those are only one or two examples of the cold-blooded cruelty adn mass
+                    destruction of human life by the Germans, who invented these methods.
+                        <del>t</del><note>T</note>hey were not a legacy <del>from</del>
+                    <note>of</note> a barbaric past.</p>
+                <space/>
+                <pb n="264-A"/>
+                <p> Article 5 (a) of the Tokyo Charter is in the same terms as Article 6 (a) of the
+                    Nuremberg Charter. The Nuremberg Tribunal did not regard Article 6 (a) as
+                    defining several separate crimes. The Tribunal said at page 54 of its
+                    Judgment:</p>
+                <p rend="indent">In the opinion of the Tribunal aggresive war <del>in</del>
+                    <note>is</note> a crime under international law. The Charter defines this
+                    offense as planning, preparation, intitiation, or waging of a war of aggression
+                    or participation in a common plan 'or conspiracy for the accomplishment.....of
+                    the foregoing.' The indictment follows this distinction. Count one charges the
+                    common plan or conspiracy. Count two charges the planning and waging of war. The
+                    same evidence has been introduced to support both counts....."</p>
+                <p>The Nuremberg Tribunal, having the Pact of Pari<note>s</note> in mind, did not
+                    regard the Charter as defining several crimes against peace but regarded it as
+                    specifying several ways of <del>committing</del><note><unclear
+                            reason="illegible"/>in</note> the same crime, that of aggressive war. In
+                    so doing, the Charter merely stated the law as it existed apart from the
+                    Charter.</p>
+                <p>The prosecution at Nuremberg in drafting the Indictment did not associate
+                    planning with conspiracy but with the waging of war. Conspiracy consists of the
+                    mere agreement. Planning and preparation for war, like initiating and waging
+                    war, may be evidence of <del>a</del>conspiracy but are not elements of it.</p>
+                <pb n="264-B"/>
+                <p>
+                    <del>In construing an indictment in our national courts we have the assistance
+                        of special statutory rules and of decisions; but in this international
+                        jurisdiction, we have no such assistance <note>,</note> apart from
+                        principles of <del>universal</del><note>general</note> application, and so
+                        we must take the indictment as we find it and construe it according to the
+                        meaning of its language. </del></p>
+                <p>
+                    <del>Keeping this in mind, if I find an accused guilty of aggressive war by,
+                        say, planning <hi rend="underline">and</hi> preparing it, I shall find him
+                        guiilty of planning <hi rend="underline">and</hi> preparing under the
+                        appropriate count. But I can see no necessity -- as there was at Nuremberg
+                        under Count 2 -- for construing the word "and" as distributive and not
+                        conjunctive in the phrase "planned and prepared" in Counts 6 to 17
+                        inclusive, and so if I find an accused guilty of planning <hi
+                            rend="underline">or</hi> preparing, but not of both, I can and shall
+                        find him guilty of waging war under the appropriate count.</del></p>
+                <p> Notwithstanding the distinction drawn between <note>conspiring,<unclear
+                            reason="illegible"/>,</note> initiating and waging war, I think the
+                    counts of waging war are not confined to engaging in actual fighting but
+                        <del>are broad enough to</del> cover all kinds of waging war not teh subject
+                    of special counts, e.g. counseling, procuring, aiding, abetting, etc.</p>
+                <p><del> If I find that an accused guilty of initiating or waging aggresive war, I
+                        shall find him guilty under the appropriate count.</del></p>
+                <p> If I find an accused guilty of participating <pb n="264-C"/> in a common plan or
+                    conspiracy I shall find him guilty under the approprate conspiracy count, even
+                    if I am satisfied that the object or motive of the conspiracy was not exactly,
+                    but was substantially, that alleged in the relevant count. A variance between
+                    the evidence and the indictment may, I think, be disregarded if that can be done
+                    without prejudice to the rights of the accused.</p>
+                <p> But to <note type="circled">completely</note> disregard object or motive as not
+                    being <note>an</note> element<del>s</del> of the offence of conspiracy would be
+                    to leave the Counts 1 to 5 in the same form and without any difference in the
+                    five allegations <note><unclear reason="illegible"/>as to countries</note>. At
+                    Nuremberg there was only one count of conspiracy <del>and it was backed
+                        by</del><note>supported <del>with</del> by</note> particulars.
+                        Th<note>at</note> course avoided difficulties.</p>
+                <p> Whil<del>st</del><note>e</note> it will be impossible to avoid finding
+                    conspiracy in <del>most if not all</del><note>most <del>if</del></note> cases
+                        <note>,</note> the difficulty will be to find what particular conspiracy
+                        <note>or conspiracies</note> an accused joined <note>, if there was more
+                        than one conspiracy, as I think was the case</note>. Motives or objects are
+                    not always easy to <del>unravel</del>
+                    <note>discover</note>. Some accused were <del>talkative</del>
+                    <note>communicative</note>; but many acted without saying much.</p>
+                <p>If we are not satisfied beyond reasonable doubt that an accused had an object or
+                    motive substantially of the kind stated in one of the five conspiracy counts we
+                    cannot find him guilty of conspiracy under any count, unless we disregard object
+                    or motive <note>and</note> find him guilty under all or any of the five counts
+                    -- a course I do not intend to follow. If I find an accused guity of conspiring
+                    to wage a war which <pb n="264-D"/> eventuated I shall find him guilty of waging
+                    it under the appropriate count, if I am not satisfied beyond reasonable doubt of
+                    his object or motive <del>of</del><note>and</note> that it corresponded
+                    substantially with an object stated in one of the Counts 1 to 5.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
