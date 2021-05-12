@@ -1942,14 +1942,11 @@ div.facsImage img:first-child {
   font-weight: normal;
 }
 
-[rend~=underline] {
+[style~=underline] {
 text-decoration: underline;
 }
 
-[rendition~=underline] {
-text-decoration: underline;
-}
-[rend~=center] {
+[style~=center] {
 text-align: center;
 }
 [rendition~=center] {
